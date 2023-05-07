@@ -7,8 +7,6 @@ Personalized Health Monitoring is a project aimed at providing elderly individua
 - [Features](#features)
 - [Technology Used](#technology-used)
 - [Prototype Description](#prototype-description)
-- [API Simulation](#api-simulation)
-- [ETL Process](#etl-process)
 - [Data Visualization](#data-visualization)
 - [Deployment](#deployment)
 
