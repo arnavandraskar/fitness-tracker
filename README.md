@@ -51,6 +51,8 @@ The Personalized Health Monitoring project is deployed on an AWS EC2 instance, e
 
 The Personalized Health Monitoring project includes a Google Data Studio dashboard that provides intuitive visualizations of the health data. You can access the dashboard using the following link:([Google Data Studio Dashboard](https://lookerstudio.google.com/reporting/b3895062-ea5d-4b8f-9f58-cb7c2232bef0)).
 
+![image](https://user-images.githubusercontent.com/80948956/236697898-ed204a2c-42c6-49b4-96bd-6af350b3d261.png)
+
 ## Front-end View
 
 This flask based link: http://13.235.245.66:8085/Sunita_Sharma/health_data is made for front-end visuallization of the live sreaming data (json) as well as for the further development purpose.
