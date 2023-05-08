@@ -28,7 +28,7 @@ The Personalized Health Monitoring project aims to empower users (age group 65+)
 The Personalized Health Monitoring project utilizes the following technologies:
 
 - **Apache Kafka**: For stream processing and real-time data ingestion.
-- **Flask Web App**: For front-end view of the smartwatch-api.
+- **Flask**: For front-end view of the smartwatch-api and dashboard.
 - **PostgreSQL**: A powerful and open-source relational database management system.
 - **Google Looker Studio**: A data visualization and reporting tool for creating interactive dashboards.
 
