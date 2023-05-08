@@ -54,9 +54,19 @@ The Personalized Health Monitoring project includes a Google Looker Studio dashb
 ![image](https://user-images.githubusercontent.com/80948956/236697898-ed204a2c-42c6-49b4-96bd-6af350b3d261.png)
 
 ## Front-end View
+This flask based link: http://13.235.245.66:8085/ is made for front-end visuallization.
 
-This flask based link: http://13.235.245.66:8085/Sunita_Sharma/health_data is made for front-end visuallization of the live sreaming data (json) as well as for the further development purpose. This web application show the latest 10 data points of the tracked parameters. We are dumping it in the json format for the development purpose.  
+### Page 1: Dashboard View
+Google Loocker Studio dashboard is deployed on this page link: http://13.235.245.66:8085/Sunita_Sharma/dashboard
+
+![image](https://user-images.githubusercontent.com/80948956/236747764-20dc060c-2fce-49dc-985a-62aea637287f.png)
+ 
+
+### Page 2: Developer View
+This page link: http://13.235.245.66:8085/Sunita_Sharma/health_data is made for front-end visuallization of the live sreaming data (json) as well as for the further development purpose. This web application show the latest 10 data points of the tracked parameters. We are dumping it in the json format for the development purpose.
 
 ![image](https://user-images.githubusercontent.com/80948956/236730945-33cdfa68-1b2d-4171-ab18-4704a8d7bfb8.png)
+
+
 
 
