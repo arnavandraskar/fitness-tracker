@@ -31,5 +31,5 @@ if __name__ == "__main__":
         producer.send('health_data', value=data)
         producer.flush()
 
-        # Sleep for 15 seconds before generating the next set of data
-        time.sleep(15)
+        # Sleep for 5 seconds before generating the next set of data
+        time.sleep(5)
