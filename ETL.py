@@ -12,7 +12,7 @@ if __name__ == "__main__":
     consumer = get_consumer('health_data')
 
     #conn = psycopg2.connect(**config('database.conf'))
-    engine = create_engine('postgresql://postgres:arnav123@database-2.cvhwbyvvdws2.ap-south-1.rds.amazonaws.com:5432/db1')
+    engine = create_engine('postgresql://postgres:*****@database-2.cvhwbyvvdws2.ap-south-1.rds.amazonaws.com:5432/db1')
 
     for message in consumer:
         """
