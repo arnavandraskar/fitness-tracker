@@ -57,6 +57,6 @@ The Personalized Health Monitoring project includes a Google Data Studio dashboa
 
 This flask based link: http://13.235.245.66:8085/Sunita_Sharma/health_data is made for front-end visuallization of the live sreaming data (json) as well as for the further development purpose. This web application show the latest 10 data points of the tracked parameters. We are dumping it in a json format for the development purpose.  
 
-![image](https://user-images.githubusercontent.com/80948956/236730025-a4413931-2c21-435b-8144-743c4f341836.png)
+![image](https://user-images.githubusercontent.com/80948956/236730945-33cdfa68-1b2d-4171-ab18-4704a8d7bfb8.png)
 
 
