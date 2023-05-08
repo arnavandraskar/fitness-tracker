@@ -40,7 +40,7 @@ The prototype of the Personalized Health Monitoring project consists of several 
 
 2. **ETL Process:** The `ETL.py` script performs the Extract, Transform, and Load (ETL) process. It consumes the health data sent by the API simulation script, transforms it into a structured format, and loads it into a PostgreSQL database for further analysis.
 
-3. **Data Visualization:** The project includes a Google Data Studio dashboard ([link](https://lookerstudio.google.com/reporting/b3895062-ea5d-4b8f-9f58-cb7c2232bef0)) that provides an intuitive visualization of the health data. The dashboard offers various charts, graphs, and insights to help users monitor their health parameters and progress towards their goals.
+3. **Data Visualization:** The project includes a Google Looker Studio dashboard ([link](https://lookerstudio.google.com/reporting/b3895062-ea5d-4b8f-9f58-cb7c2232bef0)) that provides an intuitive visualization of the health data. The dashboard offers various charts, graphs, and insights to help users monitor their health parameters and progress towards their goals.
 
 
 ## Deployment
@@ -49,7 +49,7 @@ The Personalized Health Monitoring project is deployed on an AWS EC2 instance, e
 
 ## Data Visualization
 
-The Personalized Health Monitoring project includes a Google Data Studio dashboard that provides intuitive visualizations of the health data. You can access the dashboard using the following link:([Google Data Studio Dashboard](https://lookerstudio.google.com/reporting/b3895062-ea5d-4b8f-9f58-cb7c2232bef0)).
+The Personalized Health Monitoring project includes a Google Looker Studio dashboard that provides intuitive visualizations of the health data. You can access the dashboard using the following link:([Google Looker Studio Dashboard](https://lookerstudio.google.com/reporting/b3895062-ea5d-4b8f-9f58-cb7c2232bef0)).
 
 ![image](https://user-images.githubusercontent.com/80948956/236697898-ed204a2c-42c6-49b4-96bd-6af350b3d261.png)
 
