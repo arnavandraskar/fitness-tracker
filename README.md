@@ -51,7 +51,7 @@ The Personalized Health Monitoring project is deployed on an AWS EC2 instance, e
 
 The Personalized Health Monitoring project includes a Google Looker Studio dashboard that provides intuitive visualizations of the health data. You can access the dashboard using the following link: ([Google Looker Studio Dashboard](https://lookerstudio.google.com/reporting/b3895062-ea5d-4b8f-9f58-cb7c2232bef0)).
 
-![image](https://user-images.githubusercontent.com/80948956/236697898-ed204a2c-42c6-49b4-96bd-6af350b3d261.png)
+![image](https://user-images.githubusercontent.com/80948956/236997102-d77ea993-a82b-4bb7-b047-c332326954c4.png)
 
 ## Front-end View
 This flask based link: http://13.235.245.66:8085/ is made for front-end visuallization.
@@ -59,7 +59,7 @@ This flask based link: http://13.235.245.66:8085/ is made for front-end visualli
 ### Page 1: Dashboard View
 Google Loocker Studio dashboard is deployed on this page link: http://13.235.245.66:8085/Sunita_Sharma/dashboard
 
-![image](https://user-images.githubusercontent.com/80948956/236747764-20dc060c-2fce-49dc-985a-62aea637287f.png)
+![image](https://user-images.githubusercontent.com/80948956/236997391-f07d7faf-5dd2-4596-a149-7416daeab246.png)
  
 
 ### Page 2: Developer View
