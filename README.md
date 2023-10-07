@@ -1,4 +1,4 @@
-![image](https://github.com/arnavandraskar/fitness-tracker/assets/80948956/e8af260c-bd3b-4a6e-9b51-6229999d55e2)# Personalized Health Monitoring
+# Personalized Health Monitoring
 
 Personalized Health Monitoring is a project aimed at providing elderly individuals (age group 65+) with a holistic approach to tracking and managing their health. It utilizes technology to gather health data from various sources and presents it in an easy-to-understand format, allowing users to monitor their health parameters and make informed decisions about their well-being.
 
