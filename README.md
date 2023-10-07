@@ -47,14 +47,9 @@ The prototype of the Personalized Health Monitoring project consists of several 
 
 The Personalized Health Monitoring project is deployed on an AWS EC2 instance, ensuring continuous availability. The scripts are running continuously to capture and process real-time health data.
 
-## Data Visualization
-
-The Personalized Health Monitoring project includes a Google Looker Studio dashboard that provides intuitive visualizations of the health data. You can access the dashboard using the following link: ([Google Looker Studio Dashboard](https://lookerstudio.google.com/reporting/b3895062-ea5d-4b8f-9f58-cb7c2232bef0)).
-
-![image](https://user-images.githubusercontent.com/80948956/236997102-d77ea993-a82b-4bb7-b047-c332326954c4.png)
 
 ## Front-end View
-This flask based link: http://13.235.245.66:8085/ is made for front-end visuallization.
+This flask-based link: http://13.235.245.66:8085/ is made for front-end visualization.
 
 ### Page 1: Dashboard View
 Google Loocker Studio dashboard is deployed on this page link: http://13.235.245.66:8085/Sunita_Sharma/dashboard
@@ -62,7 +57,6 @@ Google Loocker Studio dashboard is deployed on this page link: http://13.235.245
 ![image](https://github.com/arnavandraskar/fitness-tracker/assets/80948956/d236af21-3088-4721-91f4-b279543ed7eb)
 
  
-
 ### Page 2: Developer View
 This page link: http://13.235.245.66:8085/Sunita_Sharma/health_data is made for front-end visuallization of the live sreaming data (json) as well as for the further development purpose. This web application show the latest 10 data points of the tracked parameters. We are dumping it in the json format for the development purpose.
 
