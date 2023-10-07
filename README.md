@@ -59,7 +59,8 @@ This flask based link: http://13.235.245.66:8085/ is made for front-end visualli
 ### Page 1: Dashboard View
 Google Loocker Studio dashboard is deployed on this page link: http://13.235.245.66:8085/Sunita_Sharma/dashboard
 
-![image](https://user-images.githubusercontent.com/80948956/236997391-f07d7faf-5dd2-4596-a149-7416daeab246.png)
+![image](https://github.com/arnavandraskar/fitness-tracker/assets/80948956/d236af21-3088-4721-91f4-b279543ed7eb)
+
  
 
 ### Page 2: Developer View
