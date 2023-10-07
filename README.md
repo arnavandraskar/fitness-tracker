@@ -1,4 +1,4 @@
-# Personalized Health Monitoring
+![image](https://github.com/arnavandraskar/fitness-tracker/assets/80948956/e8af260c-bd3b-4a6e-9b51-6229999d55e2)# Personalized Health Monitoring
 
 Personalized Health Monitoring is a project aimed at providing elderly individuals (age group 65+) with a holistic approach to tracking and managing their health. It utilizes technology to gather health data from various sources and presents it in an easy-to-understand format, allowing users to monitor their health parameters and make informed decisions about their well-being.
 
@@ -34,13 +34,13 @@ The Personalized Health Monitoring project utilizes the following technologies:
 
 ## Prototype Description
 
-The prototype of the Personalized Health Monitoring project consists of several components that work together to provide an enhanced health tracking experience:
+The prototype of the Personalized Health Monitoring project consists of several components that work together to provide an enhanced health-tracking experience:
 
 1. **API Simulation:** The `smartwatch_api.py` script simulates the functionality of a smartwatch API. It generates random health data and sends it to the system at regular intervals.
 
 2. **ETL Process:** The `ETL.py` script performs the Extract, Transform, and Load (ETL) process. It consumes the health data sent by the API simulation script, transforms it into a structured format, and loads it into a PostgreSQL database for further analysis.
 
-3. **Data Visualization:** The project includes a Google Looker Studio dashboard ([link](https://lookerstudio.google.com/reporting/b3895062-ea5d-4b8f-9f58-cb7c2232bef0)) that provides an intuitive visualization of the health data. The dashboard offers various charts, graphs, and insights to help users monitor their health parameters and progress towards their goals.
+3. **Data Visualization:** The project includes a Google Looker Studio dashboard ([link](https://lookerstudio.google.com/reporting/b3895062-ea5d-4b8f-9f58-cb7c2232bef0)) that provides an intuitive visualization of the health data. The dashboard offers various charts, graphs, and insights to help users monitor their health parameters and progress toward their goals.
 
 
 ## Deployment
@@ -49,18 +49,19 @@ The Personalized Health Monitoring project is deployed on an AWS EC2 instance, e
 
 
 ## Front-end View
-This flask-based link: http://13.235.245.66:8085/ is made for front-end visualization.
+This flask-based link: http://3.111.196.232:5000/ is made for front-end visualization.
 
 ### Page 1: Dashboard View
-Google Loocker Studio dashboard is deployed on this page link: http://13.235.245.66:8085/Sunita_Sharma/dashboard
+Google Loocker Studio dashboard is deployed on this page link: http://3.111.196.232:5000/Sunita_Sharma/dashboard
 
 ![image](https://github.com/arnavandraskar/fitness-tracker/assets/80948956/d236af21-3088-4721-91f4-b279543ed7eb)
 
  
 ### Page 2: Developer View
-This page link: http://13.235.245.66:8085/Sunita_Sharma/health_data is made for front-end visuallization of the live sreaming data (json) as well as for the further development purpose. This web application show the latest 10 data points of the tracked parameters. We are dumping it in the json format for the development purpose.
+This page link: http://3.111.196.232:5000/Sunita_Sharma/health_data is made for front-end visualization of the live streaming data (JSON) as well as for further development purposes. This web application shows the latest 10 data points of the tracked parameters. We are dumping it in the JSON format for development purposes.
 
-![image](https://user-images.githubusercontent.com/80948956/236730945-33cdfa68-1b2d-4171-ab18-4704a8d7bfb8.png)
+![image](https://github.com/arnavandraskar/fitness-tracker/assets/80948956/b9cba0fb-65b1-4e18-a3b8-cc05eeb92786)
+
 
 
 
